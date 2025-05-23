@@ -5,7 +5,7 @@ compatibility_date = "2023-05-26"
 workers_dev = true
 
 [vars]
-PROXYIP = "https://raw.githubusercontent.com/datayumiwandi/shiroko/refs/heads/main/Data/Alive.json"
+PROXYIP = "104.248.145.216"
 UUID = "1d1c5af7-ccbe-433f-97be-c57757c72ca5"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
